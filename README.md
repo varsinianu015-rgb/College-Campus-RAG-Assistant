@@ -91,7 +91,5 @@ This version uses a NEW Chroma directory `./data/chroma_gpt4o_local_embeddings`.
 - `429`: check OpenAI API quota, rate limits, and billing at https://platform.openai.com/usage.
 - Hugging Face download error: check internet access and retry; the embedding model downloads on first use.
 - Out of memory: close other applications; this project forces CPU inference.
-- Connection timeout: check the FastAPI terminal; the Streamlit request timeout is 300 seconds.
-- Scanned/image-only PDFs need OCR before text extraction.
 
-The sample PDFs are fictional demonstration policies, not official college rules. Add authentication, authorization, file scanning, audit logs, and rate limits before production.
+
