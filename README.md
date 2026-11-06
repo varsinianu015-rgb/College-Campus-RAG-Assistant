@@ -95,3 +95,9 @@ This version uses a NEW Chroma directory `./data/chroma_gpt4o_local_embeddings`.
 - Scanned/image-only PDFs need OCR before text extraction.
 
 The sample PDFs are fictional demonstration policies, not official college rules. Add authentication, authorization, file scanning, audit logs, and rate limits before production.
+
+<img width="1920" height="1080" alt="RAG_Output" src="https://github.com/user-attachments/assets/8f9c6fca-37ee-490c-8f10-80d711645812" />
+
+<img width="1686" height="2972" alt="SystemArchietectureRAG" src="https://github.com/user-attachments/assets/ca988785-c33f-4d6d-a4fa-7e6a6f5ca95f" />
+
+
